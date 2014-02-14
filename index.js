@@ -45,7 +45,7 @@ dieRate = null;
 
 score = null;
 
-bestScore = 0;
+bestScore = 214;
 
 bestText = null;
 
